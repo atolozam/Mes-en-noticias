@@ -26,7 +26,7 @@ El repositorio incluye:
 
 ### Estructura del Repositorio
 - `/raw-data`: Contiene los datos en bruto.
-- `/process-data`: Contiene los datos procesados.
+- `/processed-data`: Contiene los datos procesados.
 - `/scripts`: Incluye los scripts principales para el análisis.
 - `/docs`: Documentación técnica y metodológica.
 
